@@ -6,7 +6,7 @@
 - Find me on socila platform. 
 - FB : https://www.facebook.com/krs.birendra
 - 
--    : https://www.facebook.com/techiebirendra
+-    : https://www.facebook.com/TravelWithTechie
 -    
 -    : https://www.facebook.com/groups/techiebirendra
 - 
