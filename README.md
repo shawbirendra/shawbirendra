@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various tech stack
 - 📫 How to reach me.
 - Find me on socila platform. 
-- FB : https://www.facebook.com/krs.birendra
+- FB : https://www.facebook.com/techie.BirendraShaw
 - 
 -    : https://www.facebook.com/TravelWithTechie
 -    
