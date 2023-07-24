@@ -11,7 +11,7 @@
 -    : https://www.facebook.com/groups/techiebirendra
 
 -    YouTube :
--    https://www.yputube.com/@TechieBirendra
+-    https://www.youtube.com/@TechieBirendra
 - 
 -      
 
