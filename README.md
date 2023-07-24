@@ -6,9 +6,12 @@
 - Find me on socila platform. 
 - FB : https://www.facebook.com/techie.BirendraShaw
 - 
--    : https://www.facebook.com/TravelWithTechie
+-    : https://www.facebook.com/javadiscussionforum/
 -    
 -    : https://www.facebook.com/groups/techiebirendra
+
+-    YouTube :
+-    https://www.yputube.com/@TechieBirendra
 - 
 -      
 
