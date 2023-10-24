@@ -5,17 +5,17 @@
 - 📫 How to reach me.
 - Find me on socila platform. 
 - FB Profiles/groups & Pages:
--                 MAIN PROFILE : https://www.facebook.com/techie.birendra
--                 FB PAGE - for study materials/videos etc
+-     Facebook Profile/page & group :
+-    : https://www.facebook.com/techie.birendra
 -    : https://www.facebook.com/javadiscussionforum/
--                 FB Group - for technical discussions
 -    : https://www.facebook.com/groups/techiebirendra
 
--    YouTube For Technical Videos & Interview Questions: https://www.youtube.com/@TechieBirendra
-
--    LinkedIn :  https://www.linkedin.com/in/techie-birendra/
-
--    Instagram : https://www.instagram.com/techie.birendra/
+-     YouTube For Technical Videos & Interview Questions:
+-    https://www.youtube.com/@TechieBirendra
+-     LinkedIn Profile
+-    https://www.linkedin.com/in/techie-birendra/
+-     Instagram Profile
+-    https://www.instagram.com/techie.birendra/
 - 
 -      
 
