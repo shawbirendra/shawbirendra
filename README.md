@@ -5,8 +5,7 @@
 - 📫 How to reach me.
 - Find me on socila platform. 
 - FB Profiles/groups & Pages:
--                 MAIN PROFILE
--    : https://www.facebook.com/techie.birendra
+-                 MAIN PROFILE : https://www.facebook.com/techie.birendra
 -                 FB PAGE - for study materials/videos etc
 -    : https://www.facebook.com/javadiscussionforum/
 -                 FB Group - for technical discussions
