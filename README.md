@@ -6,7 +6,8 @@
 - Find me on socila platform. 
 - FB Profiles/groups & Pages:
 -     Facebook Profile/page & group :
-     https://www.facebook.com/techie.birendra
+     https://www.facebook.com/techie.birendra/
+  
      https://www.facebook.com/javadiscussionforum/
      https://www.facebook.com/groups/techiebirendra
 
