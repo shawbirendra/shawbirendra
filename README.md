@@ -6,16 +6,16 @@
 - Find me on socila platform. 
 - FB Profiles/groups & Pages:
 -     Facebook Profile/page & group :
--    : https://www.facebook.com/techie.birendra
--    : https://www.facebook.com/javadiscussionforum/
--    : https://www.facebook.com/groups/techiebirendra
+     https://www.facebook.com/techie.birendra
+     https://www.facebook.com/javadiscussionforum/
+     https://www.facebook.com/groups/techiebirendra
 
 -     YouTube For Technical Videos & Interview Questions:
--    https://www.youtube.com/@TechieBirendra
+     https://www.youtube.com/@TechieBirendra
 -     LinkedIn Profile
--    https://www.linkedin.com/in/techie-birendra/
+     https://www.linkedin.com/in/techie-birendra/
 -     Instagram Profile
--    https://www.instagram.com/techie.birendra/
+     https://www.instagram.com/techie.birendra/
 - 
 -      
 
