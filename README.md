@@ -1,27 +1,43 @@
-- 👋 Hi, I’m Birendra Kumar Shaw
-- 👀 I’m interested in doing coding and learning latest technologies and tools
-- 🌱 I’m currently learning ReactJs & AWS 
-- 💞️ I’m looking to collaborate on various tech stack
-- 📫 How to reach me.
-- Find me on socila platform. 
-- FB Profiles/groups & Pages:
--     Facebook Profile/page & group :
-     https://www.facebook.com/techie.birendra/
-  
-     https://www.facebook.com/javadiscussionforum/
-  
-     https://www.facebook.com/groups/techiebirendra
+# 👋 Hi, I'm Birendra Kumar Shaw  
 
--     YouTube For Technical Videos & Interview Questions:
-     https://www.youtube.com/@TechieBirendra
--     LinkedIn Profile
-     https://www.linkedin.com/in/techie-birendra/
--     Instagram Profile
-     https://www.instagram.com/techie.birendra/
-- 
--      
+💻 **Software Engineer at IBM | Founder of DesiTech Solutions**  
+🚀 Passionate about building scalable software, solving real-world problems, and helping businesses grow with technology.  
 
-<!---
-shawbirendra/shawbirendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 About Me
+- 👨‍💻 6+ years of experience in **Java, Spring Boot, Microservices, Kafka, AWS, Docker, Kubernetes**  
+- 🚀 Currently working on **DesiTech Solutions**, a startup empowering businesses with tech solutions  
+- 📚 Sharing Java knowledge on [YouTube – Birendra's Java Lab](https://www.youtube.com/@birendrasjavalab)  
+- 🎯 Exploring **AI-driven platforms** and **solutions for Indian villages & cities**  
+
+---
+
+## 🏢 My Company – [DesiTech Solutions](https://www.desitechsolutions.com)
+Helping businesses transform with:  
+- 🌐 Website & Cloud Solutions  
+- 📊 AI-powered Platforms  
+- 📱 Mobile & Web Applications  
+
+### 🚀 Featured Product: **Vyaparsathi**
+A digital platform designed to empower retailers and small businesses with:  
+- ✅ Smart billing & inventory management  
+- ✅ Easy customer engagement  
+- ✅ Digital transformation for Indian SMEs  
+
+---
+
+## ⚡ Tech Stack
+`Java` | `Spring Boot` | `Microservices` | `Kafka` | `AWS` | `Docker` | `Kubernetes` | `Angular` | `React`  
+
+---
+
+## 📫 Connect With Me
+- 🌐 [DesiTech Solutions](https://www.desitechsolutions.com)  
+- 📧 info@desitechsolutions.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/birendra-kumar-shaw)  
+- 🐦 [Twitter](https://twitter.com/) *(add if you use)*  
+
+---
+
+⭐️ From [Birendra Kumar Shaw](https://github.com/your-username)
