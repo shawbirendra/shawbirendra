@@ -8,7 +8,7 @@
 ## 🌟 About Me
 - 👨‍💻 8+ years of experience in **Java, Spring Boot, Microservices, Kafka, AWS, Docker, Kubernetes**  
 - 🚀 Currently working on **DesiTech Solutions**, a startup empowering businesses with tech solutions  
-- 📚 Sharing Java knowledge on [YouTube – Birendra's Java Lab](https://www.youtube.com/@birendrasjavalab)  
+- 📚 Sharing Java knowledge on [YouTube – Birendra's Java Lab](https://www.youtube.com/@CodeWithBirendra)  
 - 🎯 Exploring **AI-driven platforms** and **solutions for Indian villages & cities**  
 
 ---
@@ -35,8 +35,7 @@ A digital platform designed to empower retailers and small businesses with:
 ## 📫 Connect With Me
 - 🌐 [DesiTech Solutions](https://www.desitechsolutions.com)  
 - 📧 info@desitechsolutions.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/birendra-kumar-shaw)  
-- 🐦 [Twitter](https://twitter.com/) *(add if you use)*  
+- 💼 [LinkedIn](ttps://www.linkedin.com/in/techie-birendra/)  
 
 ---
 
