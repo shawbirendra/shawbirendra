@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-- 👨‍💻 6+ years of experience in **Java, Spring Boot, Microservices, Kafka, AWS, Docker, Kubernetes**  
+- 👨‍💻 8+ years of experience in **Java, Spring Boot, Microservices, Kafka, AWS, Docker, Kubernetes**  
 - 🚀 Currently working on **DesiTech Solutions**, a startup empowering businesses with tech solutions  
 - 📚 Sharing Java knowledge on [YouTube – Birendra's Java Lab](https://www.youtube.com/@birendrasjavalab)  
 - 🎯 Exploring **AI-driven platforms** and **solutions for Indian villages & cities**  
